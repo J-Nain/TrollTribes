@@ -1,14 +1,14 @@
 html {
-	font-family: 'Pinyon Script', cursive;
+	/*font-family: 'Pinyon Script', cursive;*/
 	font-size: 16px;
 	color: white;
 	background-color: black;
-	cursor: url(cursors/d-skimmy.cur), auto;
+	/*cursor: url(cursors/d-skimmy.cur), auto;*/
 }
 
-button:hover,a:hover {
+/*button:hover,a:hover {
 	cursor: url(cursors/d-skimmy.cur), auto;
-}
+}*/
 
 body {
   width: 1200px;

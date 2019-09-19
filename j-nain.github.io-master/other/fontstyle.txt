@@ -1,0 +1,9 @@
+My website is about me.
+
+How I like computers, and math.
+
+Formal, black background on white text.  Chalkboardy
+
+<link href="https://fonts.googleapis.com/css?family=Pinyon+Script&display=swap" rel="stylesheet">
+
+font-family: 'Pinyon Script', cursive;

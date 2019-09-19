@@ -9,7 +9,9 @@ html {
 
 .main-links {
 	/*border: 3px solid blue;*/
-	font-size: 32px;
+	font-size: 26px;
+	max-width:60%;
+    	height:auto;
 }
 
 /*button:hover,a:hover {

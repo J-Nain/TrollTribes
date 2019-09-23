@@ -7,6 +7,12 @@ html {
 	cursor: url(cursors/d-skimmy.cur), auto;*/
 }
 
+#discord {
+	font-size: 26px;
+	max-width:60%;
+    	height: auto;
+}
+
 .main-links {
 	/*border: 3px solid blue;*/
 	font-size: 26px;

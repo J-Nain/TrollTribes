@@ -20,6 +20,11 @@ html {
     	height:auto;
 }
 
+#logo {
+	display: block;
+	margin: 0px auto;
+}
+
 /*button:hover,a:hover {
 	cursor: url(cursors/d-skimmy.cur), auto;
 }
@@ -57,7 +62,4 @@ h1 {
 	text-shadow: 3px 3px 2px black;
 }
 
-#logo {
-	display: block;
-	margin: 0px auto;
-}*/
+*/
